@@ -1,0 +1,8 @@
+HumanMessage(content="I want to request a refund for my order #12345.")
+AIMessage(content="Your refund request for order #12345 has been initiated. It will be processed in 3-5 business days.")
+HumanMessage(content='what was my order number')
+AIMessage(content='Your order number is **12345**.')
+HumanMessage(content='how many hours till refund')
+AIMessage(content='Your refund should be completed within the normal processing window of **3–5 business days**.  \nThat’s roughly **72 to 120 hours** from the time the request was submitted, but the exact time can vary slightly depending on your bank’s processing schedule. If you haven’t seen the credit after that window, feel free to let us know and we’ll check on the status for you.')
+HumanMessage(content='thankyou for your time')
+AIMessage(content='You’re very welcome! If you have any more questions or need further assistance, just let me know. Have a great day!')
