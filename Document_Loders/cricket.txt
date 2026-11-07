@@ -1,0 +1,168 @@
+CRICKET KNOWLEDGE BASE
+======================
+
+1. INTRODUCTION
+
+Cricket is a bat-and-ball sport played between two teams, each consisting
+of 11 players. The game is played on a circular or oval-shaped ground
+with a rectangular pitch in the centre.
+
+The main objective is to score more runs than the opposing team.
+
+Each team takes turns batting and bowling. The batting team tries to
+score runs, while the bowling team attempts to take wickets and restrict
+the opposition's score.
+
+2. BASIC RULES
+
+- Each team has 11 players.
+- An over consists of 6 legal deliveries.
+- A cricket pitch is 22 yards long.
+- Two batters are on the field during normal play.
+- A batter can score runs by running between the wickets or hitting
+  boundaries.
+- A team loses a wicket when a batter gets dismissed.
+- The team with the higher score generally wins.
+
+3. TYPES OF CRICKET FORMATS
+
+TEST CRICKET:
+- Can last up to 5 days.
+- Each team normally gets two innings.
+- Focuses on patience, technique and strategy.
+
+ONE DAY INTERNATIONAL (ODI):
+- Each team gets a maximum of 50 overs.
+- Usually completed in one day.
+- Combines attacking and defensive batting.
+
+T20 CRICKET:
+- Each team gets a maximum of 20 overs.
+- A fast-paced format.
+- Encourages aggressive batting and innovative bowling.
+
+4. METHODS OF SCORING
+
+- Single: One run by running between the wickets.
+- Double: Two runs by running between the wickets.
+- Triple: Three runs by running between the wickets.
+- Boundary (Four): Ball reaches the boundary after touching the ground.
+- Six: Ball crosses the boundary without touching the ground.
+- Extras: Additional runs from wides, no-balls, byes and leg-byes.
+
+5. TYPES OF DISMISSALS
+
+BOWLED:
+The batter is dismissed when the ball hits the stumps and dislodges
+the bails.
+
+CAUGHT:
+The batter is dismissed when a fielder catches the ball before it
+touches the ground.
+
+LBW:
+Leg Before Wicket. The batter is dismissed when the ball hits their
+body instead of the bat and would have hit the stumps, subject to
+the LBW rules.
+
+RUN OUT:
+A batter is dismissed when the fielding team breaks the wicket while
+the batter is outside the crease and not safely making their ground.
+
+STUMPED:
+The wicketkeeper breaks the wicket while the batter is outside the
+crease and not attempting a run, subject to the rules.
+
+6. IMPORTANT CRICKET TERMS
+
+- Wicket: The three stumps and two bails.
+- Over: Six legal deliveries bowled by one bowler.
+- Maiden Over: An over in which no runs are charged to the bowler.
+- Run Rate: Average runs scored per over.
+- Strike Rate: Runs scored per 100 balls faced by a batter.
+- Economy Rate: Average runs conceded per over by a bowler.
+- Partnership: Runs scored by two batters together.
+- Powerplay: Overs with fielding restrictions.
+- All-rounder: A player skilled in both batting and bowling.
+- Hat-trick: Taking three wickets in three consecutive deliveries.
+
+7. FAMOUS CRICKET PLAYERS
+
+INTERNATIONAL PLAYERS:
+
+1. Virat Kohli - Known for his batting consistency and chasing ability.
+2. Rohit Sharma - Known for his aggressive batting and six-hitting.
+3. MS Dhoni - Known for his captaincy and finishing ability.
+4. Jasprit Bumrah - Known for his unique bowling action and yorkers.
+5. Sachin Tendulkar - One of cricket's most celebrated batters.
+6. AB de Villiers - Famous for innovative batting shots.
+7. Ben Stokes - An accomplished all-rounder.
+
+8. SAMPLE CRICKET MATCH
+
+Match: Royal Challengers vs Chennai Kings
+Format: T20
+Venue: Bengaluru Cricket Stadium
+
+FIRST INNINGS:
+Royal Challengers: 185/6 in 20 overs.
+
+Top Scorers:
+- Rahul: 65 runs from 38 balls.
+- Arjun: 42 runs from 25 balls.
+- Karan: 31 runs from 18 balls.
+
+Best Bowling:
+- Vijay: 4 overs, 28 runs, 2 wickets.
+- Kumar: 4 overs, 35 runs, 2 wickets.
+
+SECOND INNINGS:
+Chennai Kings: 178/8 in 20 overs.
+
+Top Scorers:
+- Dhruv: 59 runs from 36 balls.
+- Rohan: 45 runs from 27 balls.
+- Aman: 22 runs from 14 balls.
+
+Best Bowling:
+- Sameer: 4 overs, 30 runs, 3 wickets.
+- Manav: 4 overs, 34 runs, 2 wickets.
+
+RESULT:
+Royal Challengers won by 7 runs.
+
+PLAYER OF THE MATCH:
+Rahul for scoring 65 runs from 38 balls.
+
+9. MATCH ANALYSIS
+
+Royal Challengers scored 185 runs in their first innings.
+Chennai Kings needed 186 runs to win.
+
+Chennai Kings managed to score only 178 runs.
+Therefore, Royal Challengers won the match by 7 runs.
+
+Rahul was the highest scorer for Royal Challengers.
+Dhruv was the highest scorer for Chennai Kings.
+
+Sameer took the highest number of wickets for Royal Challengers.
+
+10. CRICKET QUESTIONS
+
+1. How many players are there in a cricket team?
+2. How many balls are there in one over?
+3. What is the length of a cricket pitch?
+4. What is the difference between ODI and T20 cricket?
+5. Explain the LBW dismissal.
+6. What is a maiden over?
+7. Who is known as an all-rounder?
+8. What is a hat-trick?
+9. Which team won the sample match?
+10. How many runs did Rahul score?
+11. Who received the Player of the Match award?
+12. How many runs did Chennai Kings need to win?
+13. What is the difference between strike rate and economy rate?
+14. Explain the difference between caught and bowled.
+15. Calculate the run rate of Royal Challengers.
+
+END OF CRICKET KNOWLEDGE BASE
